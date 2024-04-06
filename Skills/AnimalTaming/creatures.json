@@ -1,9 +1,11 @@
 [
   {
+    "names": ["dog", "gorilla", "parrot", "rabbit","hopper","squirrel"],
     "ids": ["0x00D9","0x001D","0x033F","0x00CD","0x012E","0x0116"],
     "skillRange": [0,10]
   },
   {
+    "names": ["mongbat"],
     "ids": ["0x0027"],
     "skillRange": [0,20]
   }
