@@ -1,0 +1,7 @@
+[
+  {
+    name: 'dog',
+    ids: [0x00D9],
+    skillRange: [0,10]
+  }
+]
